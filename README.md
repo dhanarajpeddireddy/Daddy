@@ -6,4 +6,4 @@ You can play this game by running following:
 ```
 python Game.py
 ```
-Tested on Python 3.5.2, 3.6.
+Tested on Python 3.5.2, 3.6.4.
